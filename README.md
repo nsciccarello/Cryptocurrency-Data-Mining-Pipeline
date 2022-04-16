@@ -21,6 +21,8 @@ The API that I used for this project is from [coinlore.com](https://www.coinlore
 * **price_btc:** The bitcoin's price
 * **market_cap_usd:** The bitcoin's share of the market in US dollars
 
+## Pipeline Architecture
+
 ## What I learned from this project:
 I learned quite a lot from working on this project. Some takeaways are (but are not limited to):
 * A better understanding of what a data warehouse is
