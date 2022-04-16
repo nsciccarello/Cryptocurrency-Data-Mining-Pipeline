@@ -22,6 +22,7 @@ The API that I used for this project is from [coinlore.com](https://www.coinlore
 * **market_cap_usd:** The bitcoin's share of the market in US dollars
 
 ## Pipeline Architecture
+![plot](Bitcoin_Pipeline_Architecture.jpg)
 
 ## What I learned from this project:
 I learned quite a lot from working on this project. Some takeaways are (but are not limited to):
