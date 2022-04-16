@@ -1,14 +1,14 @@
 # Bitcoin-Data-Mining-Pipeline
 In this project, I practiced my data engineering and analytics skills by successfully developing an ETL pipeline that extracts and parses Bitcoin data from an API and saves it to an EC2 instance. Then it reads and transforms the data using PySpark and visualizes the data using AWS Quicksight for data analysis.
 
-## AWS QuickSight Dashboard:
-[Bitcoin Data Analysis Dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/0fc77545-ca4b-40b6-ab17-aba245dd6920/views/8d1cdb48-325c-449c-a03c-d962aaf1d56f)
-
 ## How I completed this project:
 To build this project, first I extracted data from an API using Python, parsed it, uploaded the data onto HDFS, then I saved it to an AWS EC2 instance. I used the Kyro serialization and Spark optimization techniques. I also created an external table on Hive/Presto. Last but not least, I loaded the data and visualized the data using AWS Quicksight.
 
 ## Pipeline Architecture
 ![plot](Bitcoin_Pipeline_Architecture.jpg)
+
+## AWS QuickSight Dashboard:
+![Bitcoin Data Analysis Dashboard](Bitcoin_Data_Analysis_Dashboard.jpg)
 
 ## About the Dataset:
 The API that I used for this project is from [coinlore.com](https://www.coinlore.com/). It's a website that provides the latest information on cryptocurrency prices. Here are some of the columns from the data that I took from this source:
