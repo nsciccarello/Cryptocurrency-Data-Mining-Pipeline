@@ -2,7 +2,7 @@
 In this project, I practiced my data engineering and analytics skills by successfully developing an ETL pipeline that extracts and parses Bitcoin data from an API and saves it to an EC2 instance. Then it reads and transforms the data using PySpark and visualizes the data using AWS Quicksight for data analysis.
 
 ## How I completed this project:
-To build this project, first I extracted data from an API using Python, parsed it, uploaded the data onto HDFS, then I saved it to an AWS EC2 instance. I used the Kyro serialization and Spark optimization techniques. I also created an external table on Hive/Presto. Last but not least, I loaded the data and visualized the data using AWS Quicksight.
+To build this project, first I extracted data from an API using Python, parsed it, uploaded the data onto HDFS, then I saved it to an AWS EC2 instance. I used the Kyro serialization and Spark optimization techniques. I also created an external table on HIVE. Last but not least, I loaded the data and visualized the data using AWS Quicksight.
 
 ## Pipeline Architecture
 ![plot](Bitcoin_Pipeline_Architecture.jpg)
