@@ -8,7 +8,7 @@ To build this project, first I extracted data from an API using Python, parsed i
 ![plot](Bitcoin_Pipeline_Architecture.jpg)
 
 ## AWS QuickSight Dashboard:
-![Cryptocurrency Data Analysis Dashboard](Bitcoin_Data_Analysis_Dashboard.jpg)
+![Cryptocurrency Data Analysis Dashboard](Cryptocurrency_Data_Analysis_Project.jpg)
 
 ## About the Dataset:
 The API that I used for this project is from [coinlore.com](https://www.coinlore.com/). It's a website that provides the latest information on cryptocurrency prices. Here are some of the columns from the data that I took from this source:
